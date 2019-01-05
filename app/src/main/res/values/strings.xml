@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuitarTuner</string>
+    <string name="recordButtonS">Record</string>
+    <string name="stopButtonS">Stop Recording</string>
+</resources>
